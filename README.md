@@ -11,6 +11,10 @@ npx create-react-app . --typescript
 npm install materialize-css@next
 **Details: https://materializecss.com/getting-started.html/**
 
+## Install react-router and additional package to work react router with Typescript
+npm i react-router-dom
+npm i @types/react-router-dom
+
 
 
 
